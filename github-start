@@ -1,0 +1,9 @@
+1. create a key on the website:
+	-login
+	-upper right - account, settings, developer settings, personal access tokens, generate new token
+
+
+1. install github cli 
+https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git 
+
+2. #> gh auth login
