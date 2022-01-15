@@ -1,0 +1,10 @@
+1. Create a repo on local machine:
+	a. navigate to the desired directory
+	b. #>git commit
+
+2. Create repository on Github
+
+3. Merge local to remote:
+	a. #>git remote add <repo-alias> <repo url>
+	b. #>git branch -M main
+	c. #>git push -u <repo-alias> main
