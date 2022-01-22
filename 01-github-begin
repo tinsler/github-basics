@@ -2,8 +2,10 @@
 	-login
 	-upper right - account, settings, developer settings, personal access tokens, generate new token
 
+2. install github cli locally
 
-2. install github cli 
-https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git 
+3. cache the github credential locally
+	https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git 
 
-3. #> gh auth login
+4. authorize login?
+	#> gh auth login
